@@ -87,7 +87,10 @@ Some example insights that can be drawn from the dashboard:
 - KPI reporting <br><br>
 
 **Download the report**
-<br>The Power BI report can be downloaded from this repository
+<br><br>Download the Power BI desktop report:
+<br>
+[hr-analytics-dashboard.pbix](HR_Analytics.pbix)
 
+<br>
 
 ---
