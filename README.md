@@ -2,7 +2,15 @@
 
 <br>**Overview**
 
-This project is an interactive HR Analytics Dashboard built with **Microsoft Power BI**. The dashboard provides key HR metrics, employee demographics and attrition analysis to help  understand workforce trends and support data-driven decision making.<br><br>
+This project is an interactive HR Analytics Dashboard built with **Microsoft Power BI**. The dashboard answers key HR questions such as:
+
+- What is the current employee attrition rate?
+- Which departments experience the highest turnover?
+- How does attrition vary by salary level?
+- Which age groups are most represented?
+- What is the relationship between job satisfaction and employee attrition?
+- How are employees distributed across departments?
+ <br><br>
 
 
 
@@ -32,7 +40,7 @@ This project is an interactive HR Analytics Dashboard built with **Microsoft Pow
 
 <br><br>**Dataset**
 
-The dashboard uses an HR employee dataset (kaggle) containing information such as:
+The dashboard uses an HR employee dataset (Kaggle) containing information such as:
 
 - Employee demographics
 - Department
@@ -49,7 +57,7 @@ The dashboard uses an HR employee dataset (kaggle) containing information such a
 - Microsoft Power BI
 - Power Query
 - DAX
-- Data Modeling<br>
+- Excel (dataset)<br>
 
 <br>**Data preparation**
 
@@ -62,10 +70,24 @@ The data preparation process included:
 
 Some example insights that can be drawn from the dashboard:
 
-- Operations has the largest workforce.
+- **Operations** has the largest workforce.
 - Most employees are between **36 - 45 years old**.
-- The highest attrition occurs in the **operations** department.
+- **Sales executive** and **laboratory technician** roles experience the highest employee turnover.
 - Employees with lower salary slabs show higher attrition.
-- Male employees represent the majority of attrition cases.
- 
+- Male employees represent the majority of attrition cases. 
+
+<br>**Skills demonstrated**
+
+- Data cleaning
+- DAX measures
+- Interactive dashboard design
+- HR analytics
+- Business Intelligence reporting
+- Data visualization
+- KPI reporting <br><br>
+
+**Download the report**
+<br>The Power BI report can be downloaded from this repository
+
+
 ---
